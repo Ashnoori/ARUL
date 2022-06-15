@@ -1,2 +1,2 @@
 # ARUL
-Attention-based RUL --> IEEE Aerospace Conference
+Attention-based RUL --> LIKE 2022
